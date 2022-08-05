@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(202, 226, 226);
+}
+.tank{
+    background-image: url(background.jpg);
+    width: 400px;
+    height: 400px;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 100px;
+}
+.bullet{
+ /*   background-image: url(background.jpg); */
+    padding-top: 70px;
+    padding-bottom: 100px;
+    padding-left: 140px;
+    padding-right: 7px;
+}
+.userHead{
+   /* text-align: center; */
+    color: rgb(240, 236, 20);
+}
+.gender{
+    color: white; 
+    font-size: 17px;
+}
+.foot{
+    color: white;
+    font-size: 20px;
+}
+button:hover{
+    background-color: red;
+}
+a:hover{
+    background-color: blue;
+}
+.sign{
+    color: rgb(224, 189, 9);
+}
+    
